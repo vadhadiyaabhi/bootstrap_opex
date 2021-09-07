@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar a{
+    color: white !important;
+}
+
+.bgimg{
+    color: white;
+    height: 92vh;
+    background-image: url("../img/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fa-caret-square-down, .fa-copy{
+    color: blue;
+}
+
+.review{
+    background: rgb(161, 157, 157);
+}
+
+i{
+    color: blue;
+}

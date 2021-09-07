@@ -1,0 +1,31 @@
+.div1{
+    background-color: rgb(71, 200, 243);
+}
+
+.div1 a{
+
+    color: white;
+
+}
+
+.div1 a:hover{
+    color: black;
+}
+
+.show{
+    background-color: transparent;
+    outline: transparent !important;
+    border: transparent !important;
+}
+
+.show:hover{
+    color: white;
+}
+
+.a, .b{
+    width: 100%;
+}
+
+#flip{
+    display: none;
+}

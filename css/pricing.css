@@ -1,0 +1,17 @@
+.btn-success, .btn-light{
+    width: 100%;
+}
+
+.card2{
+    border: 2px solid green;
+}
+
+.card1:hover,.card2:hover,.card3:hover{
+
+    border: 2px solid blue;
+
+}
+
+.reviews,.faq{
+    background: linear-gradient(180deg, rgb(199, 193, 193),white);
+}
